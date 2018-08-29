@@ -1,0 +1,46 @@
+Решил разбить цель на 4 этапа. Первый этап прочитать все стандартные книги, посмотреть видео на youtube, проходить javarush по причине большого количества практических примеров.
+Прочитать/изучить
+1) Java. Библиотека профессионала, К.Хорстманн 10е издание (2016) 2 тома
+2) Java. Полное руководство, Г.Шилдт 9е издание (2015)
+3) Структуры данных и алгоритмы в Java, Р.Лафоре (2016)
+4) Паттерны + банда четырех
+
+Видео
+1) Мирончик https://www.youtube.com/playlist?list=PL27FCF69EBF48228B (застрял на аннотациях)
+2) Головач https://www.youtube.com/channel/UCuIctN7x71qam9K_ZxS1W2A
+3) Немчинский https://www.youtube.com/channel/UCVbz7l0COUdLupcY4YtYH0w  (не для новичков)
+4) Ткач https://www.youtube.com/user/ytkach (не для новичков)
+5) Файн https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW (intro)
+6) Уроки Java https://www.youtube.com/user/husivm/videos
+7) Что-то из списка https://habrahabr.ru/company/luxoft/blog/272025/
+
+Курсы
+1) stepic.org Алгоритмы: теория и практика (https://stepik.org/217)
+
+
+https://github.com/Vedenin/useful-java-links/tree/master/link-rus
+
+Программа обучения (количество часов для конкретной темы может меняться в зависимости от подготовленности группы и пожеланий):
+1. Обзор необходимых для понимания курса технологий — Java, JavaBeans, Reflection, Annotation, JDBC, SQL — 3 часа
+2. Схема построения Enterprise-приложения и процесс создания программ — 2 часа
+3. Servlet, JSP, Filter, HTTPContextListener — 4 часа
+4. Средство сборки Maven — 4 часа
+5. Системы контроля версий на примере Git — 4 часа
+6. Логирование – log4j, slf4j — 3 часа
+7. Unit-тестирование, Junit, Mockito — 3 часа
+8. JMS – Асинхронный обмен сообщениями, Apache ActiveMQ — 4 часа
+9. Spring — Context, Database, Unit Testing — 6 часов
+10. Интеграция – Apache Camel, Spring Integration — 4 часа
+11. JGroups – Распределенные системы — 2 часа
+12. Application Server — что это такое. Архитектура, функции, JNDI — 4 часа
+13. JavaEE Security — Аутентификация, ролевая модель, LDAP, https, шифрование — 6 часов
+14. Hibernate — Annotation, связи, Caching, Paging, JPA — 4 часа
+15. EJB — Session Bean, Message Driven Bean — 6 часов
+16. Web Services — SOAP — 4 часа
+17. Принципы AJAX, пакет jQuery — 2 часа
+18. Web Services — ReST — 4 часа
+19. WebSocket – Инициируемые сервером сообщения клиенту — 3 часа
+20. JSF — Java Server Faces — 2 часа
+21. Spring — Web-MVC — 2 часа
+22. Vaadin – UI framework — 4 часа
+

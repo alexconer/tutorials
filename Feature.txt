@@ -1,0 +1,43 @@
+Что еще нужно изучить/почитать?
+- Книга по java от Хорстман 10е издание (2016) два тома
+- Философия Java Thinking in Java (4th Edition) 2016 год
+- Паттерны + банда четырех
+- переход к техникам
+
+На что обратить внимание?
+
+Какие техники освоить?
+- jsf, jsp
+- gwt
+- wildfly, tomcat, glassFish
+- hybernate (JPA)
+- jms
+- spring
+- rabbitMQ
+- hadoop
+- nginx
+- junit
+- SAX
+- NIO
+- log (log4j)
+- EJB
+- Servlet
+- безапасность JAAS
+- maven, gradle, git, Jenkins, Hudson, TeamCity, JMeter
+- UML
+- Atom XML
+- OData
+
+EJB, JDBC, JPA, JPQL, JSP, JSTL, JSF, EL, JNDI, JAX-WS, JAX-RS, JMS, JTA, CDI, JAF, JAAS
+
+lambda, functional interface
+
+SonarQuobe
+quartz-scheduler
+
+PMD, CheckStyle, TESTNG
+
+Unit Tests -> Integrated tests -> System test (если что-то тормозит) -> Acceptance test (тест на ожидания пользователей) (FitNesse)
+
+Что уже изучил:
+
