@@ -13,6 +13,8 @@
 5) Файн https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW (intro)
 6) Уроки Java https://www.youtube.com/user/husivm/videos
 7) Что-то из списка https://habrahabr.ru/company/luxoft/blog/272025/
+8) java4you https://www.youtube.com/channel/UCoDVBOHUvfzWAqIl1vXGOhg
+9) Roman Brovko https://www.youtube.com/channel/UCiwYG9Bnxfaipnp5ckCSlQw
 
 Курсы
 1) stepic.org Алгоритмы: теория и практика (https://stepik.org/217)
