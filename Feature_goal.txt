@@ -21,6 +21,8 @@
 
 
 https://github.com/Vedenin/useful-java-links/tree/master/link-rus
+https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g
+https://www.youtube.com/user/TPMGTU/playlists
 
 Программа обучения (количество часов для конкретной темы может меняться в зависимости от подготовленности группы и пожеланий):
 1. Обзор необходимых для понимания курса технологий — Java, JavaBeans, Reflection, Annotation, JDBC, SQL — 3 часа
